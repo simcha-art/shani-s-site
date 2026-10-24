@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "simcha",
+    "email": "simchacop@gmail.com",
+    "phone": "0522025402",
+    "password": "$2b$10$nc5MTN/oqBG8leWzQBVn4u8eHnYg3mw0gj8u79WqRuK.wH3hpQ7fG",
+    "role": "admin"
+  }
+]
