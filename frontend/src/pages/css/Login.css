@@ -1,0 +1,19 @@
+.container-login-form {
+    display: flex;
+    align-items: center;
+    height: 50vh;
+}
+
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin: 0.5rem;
+    padding: 1rem;
+    background-color: aliceblue;
+    align-items: center;
+    width: 50vw;
+    margin-inline: auto;
+    border-radius: 10px;
+}
